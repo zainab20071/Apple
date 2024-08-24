@@ -1,0 +1,382 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+body{
+    font-family: sans-serif !important;
+    background-color: white  !important;
+}
+/* .nav-bar1{
+  position: sticky !important;
+  background-color: whitesmoke !important;
+} */
+
+nav{
+    width: 100% !important;
+    height: 50px !important;
+    background-color: whitesmoke !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 35px !important;
+    color: rgb(0, 0, 0) !important;
+    position: fixed !important;
+   
+}
+/* .main-2{
+  position: fixed !important;
+  padding: 0% !important;
+  text-align: left !important;
+  background-color: whitesmoke !important;
+} */
+nav{
+    font-size: 14px !important;
+    color: black !important;
+    background-color: whitesmoke;
+}
+.mainx{
+  display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 20px !important;
+    position: fixed !important;
+    background-color: whitesmoke !important;
+
+ 
+}
+
+.flex-nav{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 20px !important;
+}
+
+.flex-nav2{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 20px;
+ 
+}
+    .sub-nav{
+        background-color: rgb(230, 230, 230) !important;
+        text-align: center !important;
+        padding: 22px !important;
+    
+    }
+    .nav-bar1{
+        background-color: whitesmoke !important;
+        color: black !important;
+        
+        }
+     
+        .link{
+        color: black !important;
+        text-align: left !important;
+        padding: 0% !important;
+    }
+    .link:hover{
+        text-decoration: underline !important;
+    }
+    .sub-nav{
+        background-color: white !important;
+        text-align: center !important;
+        padding: 12px !important;
+    }
+    .link-1{
+        color: rgb(44, 138, 247) !important;        
+            text-decoration: none !important;
+    }
+         .img{
+            width: 690px !important ;
+
+            height: 500px !important;
+            align-items: center !important;
+
+         }
+         
+         .btn{
+            margin: auto !important;
+            display: block !important;
+            padding: 18px !important;
+            border-radius: 30px !important;
+            width: 140px !important;
+            font-size: 18px !important;
+            box-shadow: 6px !important;
+            color: lightseagreen !important;
+            border-color: lightskyblue !important;
+          }
+          .btn:hover{
+            background-color: rgb(44, 138, 247) !important;
+            color: white !important;
+          }
+          .image{
+            background-color: whitesmoke !important;
+            height: 600px !important;
+          }
+          .image-2{
+            background-color: whitesmoke !important;
+            align-items: center !important;
+            text-align: center !important;
+          }
+          .heading{
+            color: black !important;
+           
+            font-size: 60px !important;
+          
+          }
+          .para{
+            font-size: 30px !important;
+          }
+         
+          .image-3{
+            background-color: black !important;
+            align-items: center !important;
+        text-align: center !important;  
+        }
+          .heading-2{
+              color: white !important;
+              font-size: 70px !important;
+          }
+          h3{
+            color: white !important;
+            font-size: 30px !important;
+          }
+          .iphone{
+            width: 690px  !important;
+            height: 500px  !important;
+            align-items: center  !important;
+          }
+          .botn{
+            border-radius: 25px;
+            position: absolute;
+            top: 910px;
+            left: 38%;
+            font-size: 20px;
+            background-color: royalblue;
+            border: none;
+            color: #ffffff;
+            text-align: center;
+            width: 10%;
+            height: 8%;
+          }
+          .bttn{
+            border-radius: 25px;
+            position: absolute;
+            top: 910px;
+            left: 52%;
+            font-size: 20px;
+            background-color: white;
+            color: black;
+            /* border: none; */
+            /* color: #ffffff; */
+            text-align: center;
+            width: 10%;
+            height: 8%;
+          }
+          .bttn:hover{
+            background-color: royalblue;
+            color: #ffffff;
+            border: none;
+          }
+          
+          .box{
+            background-color: black !important;
+            width: 49% !important;
+            padding: 16px !important;
+            margin: 6px !important;
+            margin-top: 6px !important;
+            margin-left: 3px !important;
+            margin-right: 6px !important;
+          }
+          .iPad-pro{
+            color: white !important;
+            font-size: 50px !important;
+          }
+          .line{
+            color: white !important;
+            font-size: 30px !important;
+          }
+          
+          .box-2{
+            background-color: whitesmoke !important;
+            width: 49% !important;
+            padding: 16px !important;
+            margin: 6px !important;
+            margin-top: 6px !important;
+            margin-left: 3px !important;
+            margin-right: 6px !important;
+          }
+          .intelligence{
+            width: 600px !important;
+            height: 400px !important;
+          }
+          .main-3{
+            display: flex !important;
+          }
+          .Aple{
+            color: black !important;
+            font-size: 50px !important;
+          }
+          .AI{
+            color: black !important;
+            font-size: 30px !important;
+          }
+          .fall{
+            color: grey !important;
+            font-size: 20px !important ;
+          }
+         .ss{
+          width: 49% !important;
+         } 
+         /* .main-4{
+          display: flex !important;
+         } */
+         
+         .wat{
+          width: 90px !important;
+          height: 90px !important;
+         }
+         .watch{
+          color: white !important;
+         }
+         .series{
+          color: red !important;
+         }
+         .bright{
+          color: white !important;
+         }
+        .SS{
+          width: 1335px !important;
+        }
+        .srs{
+          width: 1335px !important;
+        }
+        .styling{
+          background-color: whitesmoke !important;
+          padding: 8px !important;
+          margin: 10px !important;
+        }
+        .btn{
+          margin: auto !important;
+          display: block !important;
+        padding: 18px !important;
+          border-radius: 30px !important;
+          width: 140px !important;
+          font-size: 18px !important;
+          box-shadow: 6px !important;
+          color: lightseagreen !important;
+          border-color: lightskyblue !important;
+        }
+        .butnn5{
+                border-radius: 25px;
+                position: absolute;
+            
+                left: 38%;
+                font-size: 20px;
+                background-color: royalblue;
+                border: none;
+                color: #ffffff;
+                text-align: center;
+                width: 10%;
+                height: 8%;
+              }
+              .butnn6{
+                border-radius: 25px;
+                position: absolute;
+                top: 1722px;
+                left: 52%;
+                font-size: 20px;
+                background-color: white;
+                color: black;
+                /* border: none; */
+                /* color: #ffffff; */
+                text-align: center;
+                width: 10%;
+                height: 8%;
+              }
+              .butnn6:hover{
+                background-color: royalblue;
+                color: #ffffff;
+                border: none;
+              }
+        
+        
+              .buy{
+                border-radius: 25px;
+                position: absolute;
+                top: 2391px;
+                left: 10%;
+                font-size: 20px;
+                background-color: royalblue;
+                border: none;
+                color: #ffffff;
+                text-align: center;
+                width: 12%;
+                height: 8%;
+              }
+              .more{
+                border-radius: 25px;
+                position: absolute;
+                top: 2391px;
+                left: 26%;
+                font-size: 20px;
+                background-color: white;
+                color: black;
+                /* border: none; */
+                /* color: #ffffff; */
+                text-align: center;
+                width: 10%;
+                height: 8%;
+              }
+              .more:hover{
+                background-color: royalblue;
+                color: #ffffff;
+                border: none;
+              }
+              .learm{
+                border-radius: 25px;
+                position: absolute;
+                top: px;
+                left: 64%;
+                font-size: 20px;
+                background-color: royalblue;
+                border: none;
+                color: #ffffff;
+                text-align: center;
+                width: 10%;
+                height: 8%;
+              }
+              .film{
+                border-radius: 25px;
+                position: absolute;
+                top: 2470px;
+                left: 75%;
+                font-size: 20px;
+                background-color: white;
+                color: black;
+                /* border: none; */
+                /* color: #ffffff; */
+                text-align: center;
+                width: 10%;
+                height: 8%;
+              }
+              .film:hover{
+                background-color: royalblue;
+                color: #ffffff;
+                border: none;
+              }
+              .pro{
+            width: 500px;
+            height: 450px;
+            align-items: center;
+        }
+          @media screen and (max-width: 734px) and (min-width: 0px) 
+          {
+            .container{
+                display: flex;
+            }
+          }
+    
+        
